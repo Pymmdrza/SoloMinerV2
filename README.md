@@ -2,6 +2,10 @@
 New Version Solo Miner with High Speed for mining Bitcoin With all System
 ---
 
+![Solo Miner V2](https://raw.githubusercontent.com/Pymmdrza/SoloMinerV2/mainx/CaptureScreenSolo.JPG)
+
+---
+
 First install this package :
 ```
 pip install binascii
