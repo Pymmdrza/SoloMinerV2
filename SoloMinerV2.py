@@ -16,14 +16,15 @@ from colorama import Back , Fore , Style
 import context as ctx
 
 
-# Replace this with your Bitcoin Address
+
 
 def timer() :
     tcx = datetime.now().time()
     return tcx
 
+# Changed this Address And Insert Your BTC Wallet
 
-address = '16p9y6EstGYcnofGNvUJMEGKiAWhAr1uR8'
+address = '16p9y6EstGYcnofGNvUJMEGKiAWhAr1uR8' 
 
 print(Back.BLUE , Fore.WHITE , 'BTC WALLET:' , Fore.BLACK , str(address) , Style.RESET_ALL)
 
