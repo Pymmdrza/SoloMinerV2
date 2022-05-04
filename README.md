@@ -36,3 +36,12 @@ from colorama import Back , Fore , Style
 import context as ctx
 ```
 
+For insert Your BTC Address Wallet in File `SoloMinerV2.py` in Line 27 Changed This Line:
+
+```
+
+# Changed this Address And Insert Your BTC Wallet
+
+address = '16p9y6EstGYcnofGNvUJMEGKiAWhAr1uR8' 
+
+``` 
