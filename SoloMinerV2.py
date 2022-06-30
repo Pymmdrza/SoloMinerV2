@@ -16,7 +16,7 @@ from colorama import Back , Fore , Style
 import context as ctx
 
 
-
+sock = None
 
 def timer() :
     tcx = datetime.now().time()
