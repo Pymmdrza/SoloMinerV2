@@ -46,6 +46,9 @@ address = '16p9y6EstGYcnofGNvUJMEGKiAWhAr1uR8'
 
 ``` 
 
+for more detail's and about withdraw request follow this issue : #[SOLO.CKPOOL](https://github.com/Pymmdrza/SoloMinerV2/issues/11#issue-1507921524)
+
+----
 
 Programmer Telegram ID [@MrPyMmdrza](https://t.me/MrPyMmdrza)
 
